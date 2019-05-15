@@ -1,0 +1,16 @@
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.Form1.resources
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.Properties.Resources.resources
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\TestandoAPICorreios.exe.config
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\TestandoAPICorreios.exe
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\TestandoAPICorreios.pdb
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.exe
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.pdb
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\Json.dll
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\Json.pdb
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Desktop\TestandoAPICorreios\TestandoAPICorreios\obj\Debug\TestandoAPICorreios.csproj.CopyComplete
